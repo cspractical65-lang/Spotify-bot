@@ -45,7 +45,7 @@ logger = logging.getLogger(__name__)
 # CONFIGURATION
 # ============================================================
 
-BOT_TOKEN = "8854769379:AAEtsdbhpOkTyxEe81oLLsXstPf75h5dHcE"
+BOT_TOKEN = "8933943523:AAFR0SC6rJnSv6uo-O6dMKaGaNMXxxb-K3M"
 
 PROXY_HOST = "gw.dataimpulse.com"
 PROXY_PORT = "823"
